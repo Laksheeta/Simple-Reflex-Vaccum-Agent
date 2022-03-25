@@ -2,4 +2,4 @@
 
 It is a comprehend code of simple reflex vaccum agent.
 
-There is both py and inbpy file uploaded.
+There is both py and ipynb file uploaded.
